@@ -1,5 +1,14 @@
 ### 👋 I'm Bipin
 
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://raw.githubusercontent.com/rbipin/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
+    <img src="https://raw.githubusercontent.com/rbipin/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+  </div>
+</div>
+
+
+
 <!--
 **rbipin/rbipin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
