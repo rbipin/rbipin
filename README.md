@@ -1,4 +1,4 @@
-### 👋 I'm Bipin
+### 👋 I'm Bipin Radhakrishnan
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
