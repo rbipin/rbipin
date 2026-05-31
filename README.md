@@ -6,7 +6,7 @@ Lately I spend less time hand-writing code and more time designing systems, spec
 
 I care about readable code, good observability, and systems that are understandable by humans other than their original author six months later.
 
-**Outside code:** thrillers, sci-fi, good coffee, and the occasional space rabbit hole at unreasonable hours.
+**Outside code:** thrillers, sci-fi, good coffee, and the occasional rabbit hole at unreasonable hours.
 
 > *Simplicity is genius. We'll figure it out.*
 
